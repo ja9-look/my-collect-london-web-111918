@@ -1,3 +1,5 @@
 def my_collect(collection) do |x|
-  x. upcase
+  x.upcase
+end
+collection
 end
