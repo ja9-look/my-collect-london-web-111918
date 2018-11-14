@@ -1,2 +1,3 @@
-def my_collect(collection)
+def my_collect(collection) do |x|
+  x.upcase
 end
